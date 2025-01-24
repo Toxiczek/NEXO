@@ -1,0 +1,80 @@
+    body {
+
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: black;
+        color: white;
+    }
+
+    .srodek {
+
+        text-align: center;
+        top: 10px;
+        border: 1px solid black;
+        width: 35%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20%;
+        min-width: 1700px;
+
+    }
+
+    h1 {
+        font-size: 50px;
+        margin: 0;
+        padding: 2px;
+        padding-bottom: 50px;
+
+    }
+
+    #przycisk {
+
+        padding:30px 80px 30px 80px ;
+        margin: 0px 30px 0px 30px ;
+        font-size: 40px;
+        font-weight: bold;
+        border-radius: 10px;
+        border: none;
+        cursor: pointer;
+        background-color: rgb(7, 7, 7);
+        color: white;
+        
+    }
+
+    #przycisk:hover {
+
+        transition: all 0.1s;
+        background-color: green;
+        box-shadow: 0 0 100px green;
+        color: rgb(0, 88, 0);
+    }
+
+    #przycisk2:hover {
+
+        background-color: red;
+        transition: all 0.1s;
+        box-shadow: 0 0 100px red;
+        color: rgb(88, 0, 0);
+
+
+    }
+
+
+    #przycisk2 {
+
+        padding:30px 80px 30px 80px ;
+        margin: 0px 30px 0px 30px ;
+        font-size: 40px;
+        font-weight: bold;
+        border-radius: 10px;
+        border: none;
+        cursor: pointer;
+        background-color: rgb(7, 7, 7);
+        color: white;
+        
+       
+    }
+
+
+
+
+
